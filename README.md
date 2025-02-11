@@ -2,6 +2,26 @@
 
 The Fun Autoclicker is an app made using Qt. It allows users to automate and customize mouse clicks in order to make clicking tasks more fun and efficient.
 
+# Build Instructions
+
+The Fun Autoclicker is built using the Qt Community Edition, which means it must be compiled within Qt Creator. Follow the steps below to set up and build the application.
+
+### 1. Download and Install Qt Creator
+
+If you haven't already, download Qt Creator from the official [Qt Developer Page](https://www.qt.io/download-dev) and this repository.
+
+### 2. Clone the Repository in Qt Creator
+1. Open Qt Creator.
+2. Click "New Project" in the top left corner.
+3. Select "Import Project" > "Git Clone".
+4. In the Repository URL field, paste the link to this repository.
+5. Click "Configure Project" after all directory options have been completed.
+
+### 3. Build the Project
+1. Once the project is loaded, locate the Build button in the bottom-left corner.
+2. Click the Build button to compile the application.
+3. This will compile a .exe file, ready for execution.
+
 # The Application
 
 <p align="center">
