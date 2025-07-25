@@ -1,6 +1,6 @@
 # The Fun Autoclicker
 
-The Fun Autoclicker is an app made using Qt. It allows users to automate and customize mouse clicks in order to make clicking tasks more fun and efficient.
+The Fun Autoclicker is an app made using Qt. It allows users to automate and customize mouse clicks in order to make clicking tasks more fun and efficient. Click up to 500 clicks per second consistently across all windows!
 
 # Build Instructions
 
